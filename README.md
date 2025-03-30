@@ -1,20 +1,35 @@
-📊 Simple Calculator
-A basic web-based calculator built with HTML, CSS, and JavaScript. It performs arithmetic operations like addition, subtraction, multiplication, and division with a clean and responsive UI.
+<h1 align="center">📊 Simple Calculator</h1>
 
-🚀 Features
-Perform basic math operations.
+<p align="center">
+  A basic web-based calculator built with <strong>HTML, CSS,</strong> and <strong>JavaScript</strong>. 
+  It performs arithmetic operations like <strong>addition, subtraction, multiplication,</strong> and <strong>division</strong> 
+  with a clean and responsive UI.
+</p>
 
-Clear and reset buttons.
+<br>
 
-User-friendly and responsive design.
+<h2>🚀 Features</h2>
+<ul>
+  <li>Perform basic math operations.</li>
+  <li>Clear and reset buttons.</li>
+  <li>User-friendly and responsive design.</li>
+</ul>
 
-🌐 Live Preview
-👉 View Calculator <https://simplecalculator-001.netlify.app/>
+<br>
 
-🛠️ Technologies Used
-HTML
+<h2>🌐 Live Preview</h2>
+<p>
+  <a href="https://simplecalculator-001.netlify.app/" target="_blank">👉 View Calculator</a>
+</p>
 
-CSS
+<br>
 
-JavaScript
+<h2>🛠️ Technologies Used</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
+
+<br>
 
